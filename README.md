@@ -8,7 +8,7 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at Carnegie Mellon University!  Here's where all of my work will go for the semester.  
 
 # About me
 Hi! My name is Cooper, and I am in my final semester as at Master of Public Policy and Management student at Carnegie Mellon's Heinz College. I come from a Community Engagement background and had worked in the nonprofit space for 4 years prior to resuming my education. I am looking to move to DC once I graduate in December in the hopes of working in the public sector through policy analysis. 
@@ -18,11 +18,17 @@ I am relatively new to data vizualization and joined the class because I want to
 
 # Portfolio
 Sept 8: Data Viz #1
+
 Sept 8: Working With Tableau: Visualizing Public Debt
+
 Sept 18: Assignment 3&4: Critique by Design
+
 Sept 22: Final Project Part 1
+
 Oct 2: Final Project Part 2
+
 Oct 10: Final Project Part 3
+
 Oct 10: Cleaning Up Your Online Portfolio
 
 # Examples
