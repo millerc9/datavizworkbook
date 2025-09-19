@@ -12,7 +12,6 @@ https://flourish.studio/blog/visualizing-wimbledon-2022/
 Image Link: 
 <img width="633" height="411" alt="originalviz" src="https://github.com/user-attachments/assets/f631d3d2-4b7a-4470-958c-8682990a9833" />
 
-
 ## Step two: the critique
 The image provided in step 1 is a vizualization showing where Wimbledon winners are from. Here we see how many men have won the championship from each country. Ultimately, this image is useful for one specific audience, tennis fans. As far as completeness, the vizualization features the whole glboe, through the use of bubbles of varying sizes, we see the number of winners. For example, the US has the most with 6 winners, so it has the largest bubble. This makes the vizualization feel interactive and fun. The fact that we can see the winners through a global view makes it easier to read and can help the viewer distinguish where winners are in which continent. However, we get into some issues when we look at Europe. With winners from smaller countries like Croatia and Serbia, these bubbles become difficult to distinguish. Also, with countries spaced close together, it is difficult to easily tell which country you are viewing. Because of these issues, I am looking to move away from the use of bubbles and focus on one specific area. Because of this, I am hoping to focus only on Europe, because that is where teh majority of winners are from, and limiting the scope will make it easier to distingish the countries. 
 
