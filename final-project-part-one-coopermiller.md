@@ -46,7 +46,7 @@ US Census Data: Employment Status Estimates for Year of 2024
 https://data.census.gov/table/ACSST1Y2024.S2301?q=employment+rate
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+In this section, I hope to guide myself on where to go in the next two steps.  
 
 
 ## AI acknowledgements
