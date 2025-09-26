@@ -1,7 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
+# Final Project Part 1: 
 
 # Outline 
  
@@ -9,9 +8,9 @@ In this project, I am hoping to highight how employment trends have changed over
 
 In addition to this data, I also want to show somee general economic data relating to degree level achieved. Specifically, I want to illustrate the differences in yearly income, distribution of occupation type, and amount of debt held between the different groups. I'm hoping to see what these changes look like from say 1980 through the present. With this, the picture I am hoping to paint is one that can illustrate the benefit of obtaining an advanced degree and what the pros and cons are associated with it. I am also considering showing the contrast in employment rate geographically, perhaps historical trends look very different when comparing different regions in the US. Ideally, I would like to show these trends historically while also providing a context for the current state of employment based on degree type. 
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+# Project Structure
 
-Text here...
+I aim to structure this project in three parts. Overall, I am looking to show the audience the current state of US employment data by education type. First, I will provide visualizations that give a background on how the US population is broken down by education type. No degree, high school degree, associates, bachelors, masters, and PHD holders. I think this is much needed context before analyzing economic trends assoicated with these groups. Next, I will provide visualizations on the economic data relating these different education groups. I am specifically planning on showcasing the unemployment rate, median income, share of national student debt, etc... Lastly, I would like to visually show historical trends which showcase the value of either obtaining or not obtaining advanced degrees. Seeing the economic data of people by degree type historically should allow the viewer to see the present data in a better context. 
 
 ## Initial sketches
 These sketches are not statistically accurate, they are simply estimates. I expect that these can illustrate how I will be able to create data visualizations to better explore the economic impact by degree level. I hope to use visualizations like this in order to provide demographic context as well. 
@@ -24,7 +23,6 @@ Bar Graph of Median Income by Degree Type
 
 Pie Chart for Percent of Americans by Education Level
 ![IMG_6878](https://github.com/user-attachments/assets/1e1b9cb1-d96b-45d5-9674-a8c050ccb1b7)
-
 
 # The data
 
@@ -46,8 +44,11 @@ US Census Data: Employment Status Estimates for Year of 2024
 https://data.census.gov/table/ACSST1Y2024.S2301?q=employment+rate
 
 # Method and medium
-In this section, I hope to guide myself on where to go in the next two steps.  
-
+  For this project I am going to continue analyzing my data sources, particularly US Census data and the Federal Bureau of Labor Statistics. For my visualizations I will use handdrawn sketches as seen above to plan and find a direction for my final visualizations. As for my more polished and finished visualizations, I will be using Tableau Desktop. Lastly, I will use Shorthand for the final presentation in order to organize my visualizations into a storytelling format. 
 
 ## AI acknowledgements
 I used ChatGPT to help me understand how to navigate the US Census data as it was a lot of information to choose from. I also asked if it had any ideas of where I should search for data given my topic of interest. 
+
+# Final Project Part 2
+
+# Final Project Part 3
