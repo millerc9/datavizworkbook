@@ -14,31 +14,40 @@ In addition to this data, I also want to show somee general economic data relati
 Text here...
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+These sketches are not statistically accurate, they are simply estimates. I expect that these can illustrate how I will be able to create data visualizations to better explore the economic impact by degree level. I hope to use visualizations like this in order to provide demographic context as well. 
 
-Text here...
+Line Graph of National Unemployment Rate by Education Level
+![IMG_6880](https://github.com/user-attachments/assets/2d1e9ced-4e5e-4f3c-9f45-c469ee8de298)
+
+Bar Graph of Median Income by Degree Type
+![IMG_6879](https://github.com/user-attachments/assets/e8237a57-45bd-4236-a26a-f65eb0b9e7f9)
+
+Pie Chart for Percent of Americans by Education Level
+![IMG_6878](https://github.com/user-attachments/assets/1e1b9cb1-d96b-45d5-9674-a8c050ccb1b7)
+
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
 I am going to extensively use data from the Bureau of Labor Statistics. I am choosing this source because their data is extensive, provides many different contexts and demographic data for employment statistics. I have also been able to find a great deal of data outside of the present context. I have not been able to search back as far as the 1960s, but I have found relevant data back towards the 1990s. 
 
 US Census data is also going to be very helpful as the timeline is normally further back than the Bureau of Labor statistics. There is also quite a bit more data to select from with the US Census. Between the two, I beleive I will have enough data to create meaningful visualizations, but there are pros and cons to both, so I plan to use them in tandem. With the Bureau of Labor Statistics, they provide bettwe rates of employment data, while the US Census Bureau more generally have attainment numbers, so I can better show actual population numbers. The 'Education Pays' tables in the BLS website show earnings by education level and employment type, so I see that as being a major souce for my visualizations. 
 
+Sources: 
+Bureau of Labor Statistics: Measuring the Value of Education
+https://www.bls.gov/careeroutlook/2018/data-on-display/education-pays.htm
 
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+Bureau of Labor Statistics: Unemployment Rates for People 25 and Over by Educational Attainment
+https://www.bls.gov/charts/employment-situation/unemployment-rates-for-persons-25-years-and-older-by-educational-attainment.htm
+
+US Census Data: Table A-1. Years of School Completed by People 25 Years and Over, by Age and Sex. Selected Years 1940-2024.
+https://www2.census.gov/programs-surveys/demo/tables/educational-attainment/time-series/cps-historical-time-series/taba-1.xlsx
+
+US Census Data: Employment Status Estimates for Year of 2024
+https://data.census.gov/table/ACSST1Y2024.S2301?q=employment+rate
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
-
-## References
-_List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used ChatGPT to help me understand how to navigate the US Census data as it was a lot of information to choose from. I also asked if it had any ideas of where I should search for data given my topic of interest. 
