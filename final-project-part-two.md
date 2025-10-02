@@ -58,8 +58,6 @@ For my final Part 3 stage, I have a good amount of work to do. First, I need to 
 
 I also am feeling a little overwhelmed by the data right now. I want to use history to express some sort of change to the benefits of a college education, but it is difficult to find useful data that describes what I want it to describe. Trying to focus on debt has been surprisingly difficult. I found some good statistics relating to national student debt, broken up by state, so I could use PA as an example since it is at the higher end, but I am hoping to still find national averages broken down by year if I can. 
 
-Text here!
-
 ## References
 
 Sources:
