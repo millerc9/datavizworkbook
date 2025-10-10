@@ -42,7 +42,7 @@ These sketches are not statistically accurate, they are simply estimates. I expe
 
 Line Graph of National Unemployment Rate by Education Level IMG_6880 ![IMG_6880](https://github.com/user-attachments/assets/2d1e9ced-4e5e-4f3c-9f45-c469ee8de298)
 
-Bar Graph of Median Income by Degree Type IMG_6879
+Bar Graph of Median Income by Degree Type IMG_6879 ![IMG_6879](https://github.com/user-attachments/assets/e8237a57-45bd-4236-a26a-f65eb0b9e7f9)
 
 Pie Chart for Percent of Americans by Education Level IMG_6878
 
