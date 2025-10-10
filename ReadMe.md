@@ -24,7 +24,7 @@ Oct 10: Final Project Part 3
 
 Oct 10: Cleaning Up Your Online Portfolio
 
-# Final Project Part 1:
+# Telling Stories with Data Final Project Part 1:
 
 Outline
 
