@@ -44,7 +44,7 @@ Line Graph of National Unemployment Rate by Education Level IMG_6880 ![IMG_6880]
 
 Bar Graph of Median Income by Degree Type IMG_6879 ![IMG_6879](https://github.com/user-attachments/assets/e8237a57-45bd-4236-a26a-f65eb0b9e7f9)
 
-Pie Chart for Percent of Americans by Education Level IMG_6878
+Pie Chart for Percent of Americans by Education Level IMG_6878 ![IMG_6878](https://github.com/user-attachments/assets/1e1b9cb1-d96b-45d5-9674-a8c050ccb1b7)
 
 The data
 
