@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) 
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at Carnegie Mellon University!  Here's where all of my work will go for the semester.  
@@ -24,16 +24,8 @@ Oct 10: Final Project Part 3
 
 Oct 10: Cleaning Up Your Online Portfolio
 
-# Examples
+# Final Project Part 1:
 
-<script type='text/javascript'>                    
- var divElement = document.getElementById('viz1757374252907');
- var vizElement = divElement.getElementsByTagName('object')[0];                    
- vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
- var scriptElement = document.createElement('script'); 
- scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; 
- vizElement.parentNode.insertBefore(scriptElement, vizElement);      
-</script>
 
 Tables: 
 
