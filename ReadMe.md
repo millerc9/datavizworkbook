@@ -40,7 +40,7 @@ Initial sketches
 
 These sketches are not statistically accurate, they are simply estimates. I expect that these can illustrate how I will be able to create data visualizations to better explore the economic impact by degree level. I hope to use visualizations like this in order to provide demographic context as well.
 
-Line Graph of National Unemployment Rate by Education Level IMG_6880
+Line Graph of National Unemployment Rate by Education Level IMG_6880 ![IMG_6880](https://github.com/user-attachments/assets/2d1e9ced-4e5e-4f3c-9f45-c469ee8de298)
 
 Bar Graph of Median Income by Degree Type IMG_6879
 
