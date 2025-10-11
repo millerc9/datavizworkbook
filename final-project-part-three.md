@@ -1,36 +1,31 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+# The final data story: Shorthand
 
-Text here!
+https://preview.shorthand.com/HVT8BKJNDdjlOBfq
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
 Since the completion of part 2, I have made quite a few changes. Mainly, I added to and changed the entire format of my shorthand. I tried to include other visualizations that presented more of a call to action. I also changed the backgrounds and layouts of the shortand document to make it more palettable to readers. As far as data, I made use of more data that presented the debt share of different educational attainment levels, I presented a table I found about the return on investment that comes from receiving a college degree, and I made new visualizations in Tableau that highlighted the oversaturation of the degree market in recent years and used datawrapper to create a donut chart that showed what the debt share was. 
 
-## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+Another change I made was with my call to action, which I did not really have during my first iteration of shorthand in my Part 2. I tried to think about what I wanted people to take away from the presentation, and what I wanted them to do with this information. After doing some research, particularly with the CNN article I will reference later, I was able to call attention to have life after graduation is more challenging today than it was say, 30 years ago. The debt level has increased sharply and because of that, the return on invesment for those with advanced degrees takes longerer. For example, within 10 years, the ROI is typically negative. Even if the long term gains are still present, this can present a major financial challenge for recent grads. The benefits to some form of det forgiveness are presented in Shorthand, and that gave me a good Call to Action. I decided to encourage the audience to reach out to their local or state representative to push for legislation around debt forgiveness, so I added a table with three congress members around Allegheny County and the two Pennsylvania state senators. 
 
-I discovered as I was going through every part of this final project, that my target audience was shifting. I believe it is still applicable for master's students as it can help them put into perspective the financial implications of gaining a degree, but I think it appeals more to those considering attending college. It was not meant to discourage people from going, but instead present the pros and cons, and show that there are other valuable options other than obtaining an advanced degree. 
+With my final shorthand, I tried to make the visualizations speak for themselves a littl emore. While making this project, I thought I was overexplaining at times, so with my final, and particularly my presentation, I wanted to be a little more straightforward. Concerning layout of the slides, I tried to make as much of it as possible in the scrollmation feature. This felt cleaner to me, and having some sort of standard layout made it flow better. Ultimately, I tried to eliminate fluff as much as possible, so I am hoping this final version is much cleaner. 
+
+## The audience
+I have been going back in forth on who exactly my audience was supposed to be for this project. Initially I planned on it being for students, but had tremendous difficulty determining my Call to Action. I thought about making my target audience legislators, because they are the ones who can propose legislation for student debt forgiveness. I believe it is still applicable for master's students as it can help them put into perspective the financial implications of gaining a degree, but I think the audience can also still be legislators. I put the contacts for local and state legislators because I want my fellow students to make thier voice heard and advocate for legislation that would help people in our exact situation. I also believe that if I were in a room with a state politican for example, highlighting things like increased yearly income could be persuasive. However, my main audience is still people who have recently graduated from college, as they are the main people who are effected by high debt, and I think they have the greatest reason to make their voice heard on this issue. 
 
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
 
-Text here!
-
-## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+Concerning my designs, I used Tableau, except when specified in the source under visualizations that Datawrapper was used. I wanted to make my graphics as strightforward and easy to read as possible. This was the most true with my bar graph on unemployment levels and the donut chart. I did not want the audience to have to take much time to dissect them, so I attempted to create uncluttered charts. The only graphic I am unsure about the effectiveness is the range plot that was used to show the return on invesment for those with bachelor's degrees. For the measures at 20, 30, and 40 years the chart is quite clear in my opinion, but for the negative ROI at 10 years, it is difficult to see the exact percent change. However, I beleive the chart is still useful to show the gap in payoff immediately after graduation. That paired with the debt levels is meant to emphasize the financial difficulty for recent grads. Lastly, I learned how to be pickier regarding my datasources. There were many I chose early on in the process that we so large and complex that creating an easy-to-follow visualization was cumbersome. I'm most happy with the visualization created using the Bureau of Labor Statistics, as their data was clear to understand and worked well when put into Tableau or Datawrapper. 
 
 ## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
 
-I used AI to help me navigate shorthand as well as to assist me in trying to find new datasets, specifically with regard to finding information on student debt. 
+I used AI to help me navigate shorthand as well as to assist me in trying to find new datasets, specifically with regard to finding information on student debt. I was using ChatGPT-4 for the most part. I also used the copilot feature on Github to help me get a publically accessible link for this file. 
 
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
-Text here!
 
 
