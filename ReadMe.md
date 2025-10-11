@@ -134,5 +134,13 @@ Will be updated once final project is finished...
 
  <img width="618" height="628" alt="Screenshot 2025-10-10 at 7 25 40 PM" src="https://github.com/user-attachments/assets/48513ee1-ec99-4848-b66a-4daed7676421" />
 
+ <img width="2698" height="1840" alt="Sheet 1" src="https://github.com/user-attachments/assets/dfac6be7-2f11-445e-8735-190594128feb" />
+
+<img width="1388" height="642" alt="Screenshot 2025-10-10 at 8 37 47 PM" src="https://github.com/user-attachments/assets/edccc37c-4c7b-4377-b537-6c2edc644ba4" />
+
+<img width="852" height="651" alt="Screenshot 2025-10-10 at 8 38 45 PM" src="https://github.com/user-attachments/assets/36ca10e3-6600-4776-9601-027e06f2c529" />
+
+
+
 
  
