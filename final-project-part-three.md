@@ -5,7 +5,6 @@
 https://preview.shorthand.com/HVT8BKJNDdjlOBfq
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
 Since the completion of part 2, I have made quite a few changes. Mainly, I added to and changed the entire format of my shorthand. I tried to include other visualizations that presented more of a call to action. I also changed the backgrounds and layouts of the shortand document to make it more palettable to readers. As far as data, I made use of more data that presented the debt share of different educational attainment levels, I presented a table I found about the return on investment that comes from receiving a college degree, and I made new visualizations in Tableau that highlighted the oversaturation of the degree market in recent years and used datawrapper to create a donut chart that showed what the debt share was. 
 
